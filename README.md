@@ -64,7 +64,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
   After installing node, this project will need express, request and body-parser too, so just run the following command.
 
       $ npm install express
-      $ npm install request
+      $ npm install ejs
       $ npm install body-parser
 
 ---
